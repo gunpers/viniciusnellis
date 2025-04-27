@@ -14,7 +14,7 @@
 
 ### 🚀 Minhas redes:
 
-<p align="center">
+<p>
   <a href="https://www.instagram.com/gunpers_nellis" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
