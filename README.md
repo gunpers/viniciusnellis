@@ -5,8 +5,8 @@
 
 ### 📚 Sobre mim:
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
-- 💻 Focado Estrutura de dados em C, e desenvolvimento com Python
+- 🎓 Estudante de Ciências da Computação
+- 💻 Focado em aprender novas linguagens
 - ⚡ Curioso por sistemas, automações e novas tecnologias
 - 🧠 Em constante evolução na área de desenvolvimento
 
